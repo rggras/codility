@@ -28,3 +28,14 @@ https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array
 *Time spent:* 23min
 
 *Score:* 100%
+
+
+**Task: FrogJmp**
+
+https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp
+
+*Time spent:* 9min
+
+*Score:* 100%
+
+
