@@ -1,15 +1,30 @@
 # Codility lessons
 
 
-*Task:* BinaryGap https://app.codility.com/programmers/lessons/1-iterations/binary_gap
+
+**Task: BinaryGap**
+
+https://app.codility.com/programmers/lessons/1-iterations/binary_gap
 
 *Time spent:* 21min
 
 *Score:* 100%
 
 
-*Task:* CyclicRotation https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation
+
+**Task: CyclicRotation**
+
+https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation
 
 *Time spent:* 16min
+
+*Score:* 100%
+
+
+**Task: OddOccurrencesInArray**
+
+https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array
+
+*Time spent:* 23min
 
 *Score:* 100%
