@@ -48,4 +48,12 @@ https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem
 *Score:* 100%
 
 
+**Task: TapeEquilibrium**
+
+https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium
+
+*Time spent:* 19min
+
+*Score:* 100%
+
 
