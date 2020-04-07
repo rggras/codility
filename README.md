@@ -39,3 +39,13 @@ https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp
 *Score:* 100%
 
 
+**Task: PermMissingElem**
+
+https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem
+
+*Time spent:* 8min
+
+*Score:* 100%
+
+
+
